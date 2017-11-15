@@ -1,0 +1,5 @@
+name = Cache External Files
+description = Allows to cache external files (like js or css) locally.
+core = 7.x
+package = Caching
+configure = admin/config/system/cache-external-files
