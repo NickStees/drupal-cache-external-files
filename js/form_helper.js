@@ -1,5 +1,4 @@
 jQuery(function($) {
-  console.log('script added v4');
 
   var newUrlInput = $('#edit-add-new-url');
   var newPathInput = $('#edit-add-new-path');
